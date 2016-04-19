@@ -1,6 +1,9 @@
 # SparkCore-LEDMatrix
 Spark Core library for control 8x8 LED matrices using MAX7219 / MAX7221.<br>
 
+#[Deprecated]:
+###*Spark Core* is no longer available (code is not tested with *Particle Photon*)
+
 ## Features
 * uses Adafruit_GFX library which provides basic graphics methods<br>
 (draw/fill circles, triangles, chars, etc.)
